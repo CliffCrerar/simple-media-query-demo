@@ -1,4 +1,4 @@
-# Simple media queary example
+# Simple media query example
 
 A very simple demo of how media query work.
 

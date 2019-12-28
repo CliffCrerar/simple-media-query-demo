@@ -16,6 +16,8 @@ Change the browser width by dragging the border ass soon as the width is smaller
 
 Click this link to [see a live demo](https://cliffcrerar.github.io/simple-media-query-demo/)
 
+# [INFINITY ARC](www.infinityarc.net)
+
 ![Infinity Arc Logo](https://cdn-cloudflare.ga/assets/ia/IA_shortlogo_white_whitebg-05x.png)
 
-# [Infinity Arc](www.infinityarc.net)
+
